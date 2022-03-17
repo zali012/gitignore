@@ -1,1 +1,3 @@
 # gitignore
+
+gitignore readme file
